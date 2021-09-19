@@ -2,12 +2,12 @@
 
 For those who need to learn how session and cookie work with simple web app.
 
-Original article 🙇
-https://www.section.io/engineering-education/session-management-in-nodejs-using-expressjs-and-express-session/
+Learn more about the [original article](https://www.section.io/engineering-education/session-management-in-nodejs-using-expressjs-and-express-session/). 🙇
 
 ## how to run
-clone this repository and `cd` to the newly created repo and
 ```
+git clone https://github.com/aaazzz/express-session-example.git
+cd express-session-example
 npm install
 npm run dev
 ```
